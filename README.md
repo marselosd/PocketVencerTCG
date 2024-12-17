@@ -3,6 +3,9 @@
   <img src="./PocketVencer.png" alt="Logo do Pocket Vencer TCG" width="200"/>
 </div>
 
+PROJETO DESENVOLVIDO POR:
+  Matheus Borgmann, Jorge Ferreira, Marcelo Dalcin e Isabele Torres
+
 ---
 ## História 📖 
 [Uma breve história sobre o Pocket VENCER TCG](Markdowns%2FHistoria.md)
